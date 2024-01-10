@@ -1,5 +1,8 @@
-# Zain's Analytics Portfolio
+# Zain's Data Analytics Portfolio 
 Passionate Data Analyst | Transforming raw data into actionable insights.📊
+
+## #2 Zomato Resto Analysis Using PowerBI
+
 
 ## #1 Zomato Resto Analysis Using PowerBI
 **Data Integration and Transformation:**
@@ -14,4 +17,5 @@ Passionate Data Analyst | Transforming raw data into actionable insights.📊
 **Geospatial Analysis and User Accessibility:**
 * Engineered geographical filters for efficient data segmentation by continent, country, and city, facilitating a comprehensive view of Zomato's worldwide presence.
 * Ensured user-friendly accessibility by enabling seamless access to the Power BI report through web browsers and mobile devices.
-![Image Alt Text](/Images/Zomato3.jpg)
+![Image Alt Text](/ProjectFiles/#1/Zomato3.jpg)
+
