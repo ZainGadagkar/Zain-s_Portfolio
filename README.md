@@ -1,6 +1,20 @@
 # Zain's Data Analytics Portfolio 
 A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 
+## #5 Job Status Visualization & Reporting (JSVR) with SQL, Excel & PowerBI
+
+**SQL Data Management:**
+* Leveraged SQL scripting to extract and manage job entries (JE's) data, categorizing tasks into completed, running, or failed statuses.
+* Ensured precise information alignment between Excel and the Databases, facilitating accurate reporting and client presentations.
+
+**Excel Automation and Reporting:**
+* Developed an "Automation Summary Report" in Excel to streamline job count monitoring and categorization of Export, reports, and process jobs.
+* Enhanced data filtering and manipulation capabilities, providing a foundation for the Power BI dashboard presentation.
+
+**Power BI Dashboard Development:**
+* Designed and implemented a comprehensive Power BI dashboard visualizing real-time job statuses (running, pending, failed) across client-relevant processes.
+* Enabled efficient data tracking, monitoring, and client insight, contributing to an enhanced operational flow and client comprehension.
+
 ## #4 Powering Business Insights: Interactive BI Dashboard for a GlobalSuperStore - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%234/BIDashborad.jpg)
 
 **Data Integration and Analysis:**
