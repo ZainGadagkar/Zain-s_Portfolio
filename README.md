@@ -1,7 +1,20 @@
 # Zain's Data Analytics Portfolio 
 Passionate Data Analyst | Transforming raw data into actionable insights.📊
 
-## #2 Zomato Resto Analysis Using PowerBI
+## #3 Sales Analysis - Data-Driven Business Insights with Python
+
+## #2 Sales Analysis - Data-Driven Business Insights with Python
+**Data Cleaning and Transformation:**
+* Executed a comprehensive data cleaning process using Python Pandas, addressing issues such as NaN values and inconsistent data types.
+* Applied transformation techniques, including dropping rows based on conditions and converting columns to numeric and datetime formats.
+  
+**Business Questions Exploration:**
+* Analyzed 12 months' worth of sales data to answer high-level business questions, including identifying the best sales month and top-selling products.
+* Utilized various Pandas and Matplotlib methods, such as concatenation, grouping, and plotting, to derive actionable insights for strategic decision-making.
+
+**Visualization and Presentation:**
+* Leveraged Matplotlib to create visually engaging bar charts and line graphs, effectively communicating complex sales trends and patterns.
+* Contributed to the interpretation and labeling of graphs, enhancing the clarity of the presented data for stakeholders.
 
 
 ## #1 Zomato Resto Analysis Using PowerBI
