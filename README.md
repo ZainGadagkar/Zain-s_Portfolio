@@ -14,4 +14,4 @@ Passionate Data Analyst | Transforming raw data into actionable insights.📊
 **Geospatial Analysis and User Accessibility:**
 * Engineered geographical filters for efficient data segmentation by continent, country, and city, facilitating a comprehensive view of Zomato's worldwide presence.
 * Ensured user-friendly accessibility by enabling seamless access to the Power BI report through web browsers and mobile devices.
-![Image Alt Text](/Zomato3.jpg)
+![Image Alt Text](/Images/Zomato3.jpg)
