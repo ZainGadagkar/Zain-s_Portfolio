@@ -1,7 +1,7 @@
 # Zain's Data Analytics Portfolio 
 A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 
-## #5 Job Status Visualization & Reporting (JSVR) with SQL, Excel & PowerBI
+## #5 Job Status Visualization & Reporting (JSVR) using SQL, Excel & PowerBI
 
 **SQL Data Management:**
 * Leveraged SQL scripting to extract and manage job entries (JE's) data, categorizing tasks into completed, running, or failed statuses.
