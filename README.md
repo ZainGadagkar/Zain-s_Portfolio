@@ -1,7 +1,33 @@
 # Zain's Data Analytics Portfolio 
 Passionate Data Analyst | Transforming raw data into actionable insights.📊
 
-## #3 Sales Analysis - Data-Driven Business Insights with Python
+## #4 Powering Business Insights: Crafting an Interactive BI Dashboard for a GlobalSuperStore
+
+**Data Integration and Analysis:**
+* Loaded GlobalSuperStore data into Power BI, ensuring seamless integration and compatibility.
+* Conducted a detailed analysis of tables and established effective relationships to lay the foundation for actionable insights.
+
+**Data Cleaning and Transformation:**
+* Spearheaded data cleaning initiatives using Power Query Editor and DAX, addressing inconsistencies and enhancing data quality.
+* Applied advanced Data Analysis Expressions (DAX) to optimize data transformation processes, contributing to a refined and reliable dataset.
+
+**Interactive BI Dashboard Development:**
+* Developed an engaging and interactive Power BI dashboard/report, synthesizing key findings for stakeholders.
+* Utilized Power BI functionalities to create visually appealing and user-friendly data visualizations, enhancing accessibility and decision-making.
+
+## #3 Python Data Analytics Mastery: Unraveling Insights
+
+**Library Installation and Setup:**
+* Proficiently installed essential Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn, ensuring a robust foundation for data analytics.
+* Streamlined the library setup process for seamless project collaboration and execution.
+
+**Data Cleaning and Processing:**
+* Led the data cleaning and processing phase, employing Python Pandas to handle NaN values, outliers, and data inconsistencies.
+* Implemented efficient techniques for data transformation, including type conversions and removal of redundant information.
+
+**Exploratory Data Analysis (EDA) for Beginners:**
+* Conducted a beginner-friendly EDA, leveraging Pandas and Matplotlib, to uncover meaningful patterns and trends within the dataset.
+* Applied foundational statistical analyses and visualization methods to provide actionable insights for decision-making.
 
 ## #2 Sales Analysis - Data-Driven Business Insights with Python
 **Data Cleaning and Transformation:**
