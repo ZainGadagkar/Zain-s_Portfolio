@@ -1,5 +1,5 @@
 # Zain's Data Analytics Portfolio 
-Passionate Data Analyst | Transforming raw data into actionable insights.📊
+A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 
 ## #4 Powering Business Insights: Interactive BI Dashboard for a GlobalSuperStore - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%234/BIDashborad.jpg)
 
