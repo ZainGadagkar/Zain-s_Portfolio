@@ -43,7 +43,7 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Conducted a beginner-friendly EDA, leveraging Pandas and Matplotlib, to uncover meaningful patterns and trends within the dataset.
 * Applied foundational statistical analyses and visualization methods to provide actionable insights for decision-making.
 
-## #2 Sales Analysis - Data-Driven Business Insights with Python - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%232/SalesAnalysis.ipynb)
+## #2 Sales Analysis - Data-Driven Business Insights with Python - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/60b0c8a915d074a2be4373a52b208af03155b0d9/ProjectFiles/%232/Sales%20Analysis.ipynb)
 **Data Cleaning and Transformation:**
 * Executed a comprehensive data cleaning process using Python Pandas, addressing issues such as NaN values and inconsistent data types.
 * Applied transformation techniques, including dropping rows based on conditions and converting columns to numeric and datetime formats.
