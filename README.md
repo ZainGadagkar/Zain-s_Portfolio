@@ -1,7 +1,7 @@
 # Zain's Data Analytics Portfolio 
 A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 
-## #5 Job Status Visualization & Reporting (JSVR) using SQL, Excel & PowerBI
+## #5 Job Status Visualization & Reporting (JSVR) using SQL, Excel & PowerBI  |  Team Project
 
 **SQL Data Management:**
 * Leveraged SQL scripting to extract and manage job entries (JE's) data, categorizing tasks into completed, running, or failed statuses.
@@ -15,7 +15,7 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Designed and implemented a comprehensive Power BI dashboard visualizing real-time job statuses (running, pending, failed) across client-relevant processes.
 * Enabled efficient data tracking, monitoring, and client insight, contributing to an enhanced operational flow and client comprehension.
 
-## #4 Powering Business Insights: Interactive BI Dashboard for a GlobalSuperStore - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%234/BIDashborad.jpg)
+## #4 Powering Business Insights: Interactive BI Dashboard for a GlobalSuperStore | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%234/BIDashborad.jpg)
 
 **Data Integration and Analysis:**
 * Loaded GlobalSuperStore data into Power BI, ensuring seamless integration and compatibility.
@@ -29,7 +29,7 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Developed an engaging and interactive Power BI dashboard/report, synthesizing key findings for stakeholders.
 * Utilized Power BI functionalities to create visually appealing and user-friendly data visualizations, enhancing accessibility and decision-making.
 
-## #3 Python Data Analytics Mastery: Unraveling Insights - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%233/DiwaliSales.ipynb)
+## #3 Python Data Analytics Mastery: Unraveling Insights | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%233/DiwaliSales.ipynb)
 
 **Library Installation and Setup:**
 * Proficiently installed essential Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn, ensuring a robust foundation for data analytics.
@@ -43,7 +43,7 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Conducted a beginner-friendly EDA, leveraging Pandas and Matplotlib, to uncover meaningful patterns and trends within the dataset.
 * Applied foundational statistical analyses and visualization methods to provide actionable insights for decision-making.
 
-## #2 Sales Analysis - Data-Driven Business Insights with Python - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/60b0c8a915d074a2be4373a52b208af03155b0d9/ProjectFiles/%232/Sales%20Analysis.ipynb)
+## #2 Sales Analysis - Data-Driven Business Insights with Python | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/60b0c8a915d074a2be4373a52b208af03155b0d9/ProjectFiles/%232/Sales%20Analysis.ipynb)
 **Data Cleaning and Transformation:**
 * Executed a comprehensive data cleaning process using Python Pandas, addressing issues such as NaN values and inconsistent data types.
 * Applied transformation techniques, including dropping rows based on conditions and converting columns to numeric and datetime formats.
@@ -57,7 +57,7 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Contributed to the interpretation and labeling of graphs, enhancing the clarity of the presented data for stakeholders.
 
 
-## #1 Zomato Resto Analysis Using PowerBI - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%231/Zomato3.jpg)
+## #1 Zomato Resto Analysis Using PowerBI | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%231/Zomato3.jpg)
 **Data Integration and Transformation:**
 * Orchestrated seamless integration of restaurant data from multiple Excel files, ensuring accuracy and consistency.
 * Conducted meticulous data transformation, rectifying city name discrepancies and optimizing the dataset for enhanced clarity.
