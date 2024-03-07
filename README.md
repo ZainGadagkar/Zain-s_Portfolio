@@ -1,7 +1,7 @@
 # Zain's Data Analytics Portfolio 
 A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 
-## #6 Job Status Visualization & Reporting (JSVR) | SQL, Excel & PowerBI  |  Team Project
+## #8 Job Status Visualization & Reporting (JSVR) | SQL, Excel & PowerBI  |  Team Project
 
 **SQL Data Management:**
 * Leveraged SQL scripting to extract and manage job entries (JE's) data, categorizing tasks into completed, running, or failed statuses.
@@ -15,7 +15,21 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Designed and implemented a comprehensive Power BI dashboard visualizing real-time job statuses (running, pending, failed) across client-relevant processes.
 * Enabled efficient data tracking, monitoring, and client insight, contributing to an enhanced operational flow and client comprehension.
 
-## #5 Comprehensive Bank Loan Analysis | Tableau | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/1b38f3a58103944e5cf10359c0dc1b66a36c3aef/ProjectFiles/%235/BankLoanReport.pdf)
+## #7 Sales Insights Dashboard: Unveiling Business Trends | Tableau & Advanced Excel | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/1b38f3a58103944e5cf10359c0dc1b66a36c3aef/ProjectFiles/%235/BankLoanReport.pdf)
+
+**Project Overview:**
+* Developed a comprehensive sales dashboard using Tableau and advanced Excel techniques, ensuring data accuracy and reliability.
+* Integrated interactive features and filters for stakeholders to explore sales trends by various dimensions.
+  
+**Technical Implementation:**
+* Employed Tableau's calculated fields to derive insights such as total sales and total orders, enhancing analysis depth.
+* Utilized diverse visualization types including line charts, bar charts, and maps to effectively communicate key metrics.
+  
+**Learning Outcomes:**
+* Gained proficiency in data cleaning and manipulation using advanced Excel techniques.
+* Enhanced skills in creating interactive and visually appealing dashboards to drive data-driven decision-making.
+
+## #6 Comprehensive Bank Loan Analysis | Tableau | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/1b38f3a58103944e5cf10359c0dc1b66a36c3aef/ProjectFiles/%235/BankLoanReport.pdf)
 
 **Summary Dashboard - Loaded data and performed the necessary operation in Tableau:**
 * Engineered a dynamic summary page featuring key performance indicators (KPIs) such as Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Loan Status breakdown.
@@ -29,6 +43,20 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Engineered a comprehensive tabular format to present key loan-related metrics efficiently on the Details page.
 * Ensured data accuracy and reliability by presenting detailed loan information, facilitating quick access to essential details for informed decision-making while enhancing overall usability.
 
+## #5 COVID-19 Insights: Analyzing Pandemic Trends | Python | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/1b38f3a58103944e5cf10359c0dc1b66a36c3aef/ProjectFiles/%235/BankLoanReport.pdf)
+
+**Data Preprocessing:**
+* Loaded the COVID-19 dataset into a DataFrame and removed irrelevant columns to streamline the analysis.
+* Identified and addressed missing values by filling zeros (0) where applicable and ensuring data consistency.
+
+**Exploratory Data Analysis (EDA):**
+* Visualized key metrics such as total cases, total deaths, and reproduction rate over time to understand pandemic trends.
+* Analyzed testing and vaccination metrics to assess the effectiveness of control measures in managing the pandemic.
+
+**Key Findings:**
+* Peak Period Analysis: Identified peak COVID-19 cases and deaths, highlighting critical periods of the pandemic.
+* Reproductive Rate Assessment: Examined the transmission rate over time to understand the virus's spread dynamics.
+* Impact of Vaccination: Explored the role of vaccination efforts in controlling the pandemic and reducing transmission rates.
 
 ## #4 Powering Business Insights: Interactive BI Dashboard for a GlobalSuperStore | PowerBI | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/main/ProjectFiles/%234/BIDashborad.jpg)
 
