@@ -15,7 +15,7 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Designed and implemented a comprehensive Power BI dashboard visualizing real-time job statuses (running, pending, failed) across client-relevant processes.
 * Enabled efficient data tracking, monitoring, and client insight, contributing to an enhanced operational flow and client comprehension.
 
-## #7 Sales Insights Dashboard: Unveiling Business Trends | Tableau & Advanced Excel | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/1b38f3a58103944e5cf10359c0dc1b66a36c3aef/ProjectFiles/%235/BankLoanReport.pdf)
+## #7 Sales Insights Dashboard: Unveiling Business Trends | Tableau & Advanced Excel | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/770e699caf27d569ac06e297ad79438a84375b47/ProjectFiles/%237/SalesDashboard.jpg)
 
 **Project Overview:**
 * Developed a comprehensive sales dashboard using Tableau and advanced Excel techniques, ensuring data accuracy and reliability.
@@ -29,7 +29,7 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Gained proficiency in data cleaning and manipulation using advanced Excel techniques.
 * Enhanced skills in creating interactive and visually appealing dashboards to drive data-driven decision-making.
 
-## #6 Comprehensive Bank Loan Analysis | Tableau | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/1b38f3a58103944e5cf10359c0dc1b66a36c3aef/ProjectFiles/%235/BankLoanReport.pdf)
+## #6 Comprehensive Bank Loan Analysis | Tableau | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/64855d7cdfc8d2efa7040d0c04b847e13a587f70/ProjectFiles/%236/BankLoanReport.pdf)
 
 **Summary Dashboard - Loaded data and performed the necessary operation in Tableau:**
 * Engineered a dynamic summary page featuring key performance indicators (KPIs) such as Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Loan Status breakdown.
@@ -43,7 +43,7 @@ A Passionate Data Analyst | Transforming raw data into actionable insights.📊
 * Engineered a comprehensive tabular format to present key loan-related metrics efficiently on the Details page.
 * Ensured data accuracy and reliability by presenting detailed loan information, facilitating quick access to essential details for informed decision-making while enhancing overall usability.
 
-## #5 COVID-19 Insights: Analyzing Pandemic Trends | Python | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/1b38f3a58103944e5cf10359c0dc1b66a36c3aef/ProjectFiles/%235/BankLoanReport.pdf)
+## #5 COVID-19 Insights: Analyzing Pandemic Trends | Python | 1 Person Project - [View](https://github.com/ZainGadagkar/Zain-s_Portfolio/blob/f9cbd816059cb7af329a26042922af3aceaebf9a/ProjectFiles/%235/Zain%20Gadagkar_2325104_Analyst_CovidDataset.ipynb)
 
 **Data Preprocessing:**
 * Loaded the COVID-19 dataset into a DataFrame and removed irrelevant columns to streamline the analysis.
